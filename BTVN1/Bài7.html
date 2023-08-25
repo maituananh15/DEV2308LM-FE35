@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài 7 form</title>
+</head>
+<body>
+    <form>
+        <table border="1" align="center">
+            <tr style="background-color: red;">
+                <td colspan="2"><h1 style="color: azure;" >WFUOO</h1></td>
+            </tr>
+            <tr>
+                <td colspan="2"><h2>To Do List</h2></td>
+            </tr>
+            <tr>
+                <td colspan="2"><label for="item" ><b>Item</b> <br> <input type="text" style="width: 504px;"></label></td>
+            </tr>
+            <tr>
+                <td colspan="2"><label for="description"> <b>Description</b> <br><textarea name="string" id="string" cols="61" rows="5"></textarea></label></td>
+            </tr>
+            <tr>
+                <td> <b>Priority</b> <br>
+                    <select name="select" id="select" style="width: 250px;">
+                        <option value="0" >Low</option>
+                        <option value="1">Poor</option>
+                        <option value="2">Wounded soldier</option>
+                    </select>
+                </td>
+                <td> <b>Category</b> <br>
+                    <select name="category" id="category" style="width: 250px;">
+                        <option value="0">Personal</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2"><label for="date"><b> Due Date</b> <br><input type="date" name="ngaysinh" id="ngaysinh" style="width: 300px;" > </label></td>
+            </tr>
+            <tr>
+                <td colspan="2"><label for="radoi"><b>Status</b> <br><input type="radio">Done.</label></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="submit" value="Submit" style="width: 100px; padding:4px 8px ; margin-top: 20px;"></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
