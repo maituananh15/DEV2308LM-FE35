@@ -4,18 +4,15 @@
     text-decoration: none;
     list-style: none;
     color: white;
-    text-align: center;
 }
 .content{
     background-color: red;
     border-radius: 3px;
     width: 522px;
-    height: 50px;
     display: flex;
 }
 .content .A{
     padding: 12px 20px;
-    text-align: center;
 }
 .content .A{
     border-right: 1px solid;
@@ -25,4 +22,21 @@
 }
 .content .A:hover b{
     color: green;
+}
+.mega{
+    position: absolute;
+    background-color: rgb(190, 221, 240);
+    top: 100%;
+    left: 0;
+    display: none;
+    width: 315px;
+}
+.content2 .A:hover b{
+    color: blue;
+}
+.A{
+    position: relative;
+}
+.content > .A:hover .mega{
+    display: block;
 }
