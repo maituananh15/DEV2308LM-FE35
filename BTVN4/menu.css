@@ -7,11 +7,12 @@
 }
 .menu-1{
     background-color: black;
-    width: 100%;
+    width: 1640px;
     display: flex;
+
 }
 .option{
-    padding: 10px 20px;
+    padding: 20px 100px;
     font-size: 20px;
 }
 .option:hover {
@@ -54,13 +55,13 @@
     display: block;
 }
 .banner img{
-    width: 100%;
+    width: 1640px;
 }
 .Bia{
     margin-top: 30px;
     background-color: red;
-    width: 80%;
-    margin-left: 74px;
+    width: 1300px;
+    margin-left: 170px;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;;
@@ -77,4 +78,16 @@
 }
 .B:hover .C{
    background-color: black;
+}
+.logo img{
+    width: 77px;
+    height: 50px;
+}
+.nav{
+    display: flex;
+}
+@media screen and (max-width: 600px) {
+    .Bia .clock{
+        width: 45% !important;
+    }
 }
