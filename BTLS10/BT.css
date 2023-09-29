@@ -1,0 +1,34 @@
+.form-login{
+    background-color:#d0c3c8;
+    width: 207px; 
+    padding: 60px;
+    border-radius: 3px; 
+    margin-top: 180px;
+    margin-left: 700px;
+}
+.img-logo img{
+    width: 120px;
+    height: 120px; 
+    border-radius: 120px; 
+    margin-left: 35px;
+}
+.form-login .form .username{
+    width: 200px;
+    height: 25px;
+    border: 1px soild gray;
+    margin-bottom: 10px;
+}
+.form-login .form .password{
+    width: 200px;
+    height: 25px;
+    border: 1px soild gray;
+}
+.form-button button{
+    width: 208px;
+    height: 30px;
+    background:rgb(58, 93, 248);
+    color: white; 
+    border: 0;
+    border-radius: 3px;
+    text-align: center;
+}
