@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+    list-style: none;
+}
+@media screen and (max-width: 500px) {
+    html{
+        font-size: 10px;
+    }
+}
+.w-100{
+    width: 380px;
+    height: 200px;
+}
+.Picture p{
+    color: rgb(242, 227, 227);
+    margin-left: 20px;
+    margin-top: 50px;
+}

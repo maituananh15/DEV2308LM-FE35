@@ -1,0 +1,28 @@
+@keyframes zoom{
+    from{scale: 1;}
+    to{scale: 1.5;}
+}
+.News .Picture .w-100:hover{
+    animation-name: zoom;
+    animation-duration: 1s;
+    scale: 1,5;
+}
+.News .Picture{
+    overflow: hidden;
+}
+@media screen and (max-width: 500px) {
+     .Content .News{
+        width: 30%;
+    }
+}
+.Picture{
+    background-color: black;
+    width: 380px;
+    height: 400px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.Content .News{
+    display: flex;
+}
