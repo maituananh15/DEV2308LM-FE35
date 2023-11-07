@@ -1,0 +1,92 @@
+.name>a{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(34, 34, 137);
+}
+.list .name-1{
+    margin-top: 4px;
+}
+.name-1>a{
+    color: yellow;
+}
+.example-1{
+    display: flex;
+    width: 77%;
+    margin-top: 200px;
+    margin-left: 250px;
+}
+.content-1 h1{
+    color: rgb(31, 31, 94);
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+.fake{
+    position: absolute;
+    top: 248px;
+    left: 270px;
+}
+.w-15{
+    margin-left: 540px;
+    width: 50%;
+}
+.example-2{
+    display: flex;
+    width: 77%;
+    margin-top: 100px;
+    margin-left: 245px;
+}
+.content-2 h1{
+    color: rgb(31, 31, 94);
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+.w-16{
+    margin-right: 155px;
+    width: 65%;
+}
+.example-3{
+    display: flex;
+    width: 77%;
+    margin-top: 100px;
+    margin-left: 245px;
+    position: relative;
+}
+.content-3 h1{
+    color: rgb(31, 31, 94);
+    font-size: 35px;
+    margin-bottom: 10px;
+    margin-left: 22px;
+}
+.w-17{
+    margin-left: 770px;
+    width: 40%;
+}
+.hax{
+    position: absolute;
+    left: 320px;
+}
+.fact{
+    position: absolute;
+    top: 150px;
+    width: 37%;
+}
+.end{
+    display: flex;
+    width: 80%;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+.lk .li{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+}
+.nao a{
+    list-style: none;
+    text-decoration: none;
+    margin-right: 30px;
+    color: rgb(33, 33, 99);
+}
+.lh{
+    display: flex;
+}

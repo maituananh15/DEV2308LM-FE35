@@ -1,0 +1,70 @@
+.name>a{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(34, 34, 137);
+}
+.list .name-1{
+    margin-top: 4px;
+}
+.name-1>a{
+    color: yellow;
+}
+.w-27{
+    width: 95%;
+    margin-left: 40px;
+    margin-top: 150px;
+}
+.end{
+    display: flex;
+    width: 80%;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+.lk .li{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+}
+.nao a{
+    list-style: none;
+    text-decoration: none;
+    margin-right: 30px;
+    color: rgb(33, 33, 99);
+}
+.lh{
+    display: flex;
+}
+.brok{
+    margin-top: 100px;
+}
+.luffy{
+    display: flex;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 50px;
+}
+.left{
+    width: 116%;
+}
+.right{
+    width: 50%;
+}
+.e-1{
+    width: 400px;
+    height: 40px;
+    border: none;
+    background-color: #e3e2e2;
+    margin-bottom: 20px;
+}
+.e-2{
+    width: 400px;
+    height: 150px;
+    border: none;
+    background-color: #e3e2e2;
+    margin-bottom: 20px;
+}
+.w-28{
+    margin-top: 50px;
+    width: 95%;
+    margin-left: 40px;
+}

@@ -1,0 +1,113 @@
+.name>a{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(34, 34, 137);
+}
+.list .name-1{
+    margin-top: 4px;
+}
+.name-1>a{
+    color: yellow;
+}
+.rim{
+    margin-top: 150px;
+}
+.w-6{
+    width: 90%;
+    margin-left: 80px;
+}
+.w-7{
+    top: 300px;
+    position: absolute;
+    left: 200px;
+    width: 40%;
+}
+.title h1{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(33, 33, 108);
+    margin-top: 50px;
+}
+.content img{
+    margin-top: 20px;
+    margin-left: 400px;
+    width: 50%;
+}
+.begin-2 .top h1{
+    margin-left: 500px;
+    margin-top: 50px;
+    color: rgb(29, 29, 106);
+    font-size: 23px;
+}
+.bot img{
+    margin-top: 50px;
+    margin-left: 300px;
+    width: 62%;
+}
+.mid h1{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(33, 33, 108);
+    margin-top: 50px;
+}
+.w-8{
+    width: 100%;
+}
+.krito h1{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(33, 33, 108);
+    margin-top: 50px;
+}
+.w-9{
+    width: 100%;
+}
+.begin-5{
+    position: relative;
+}
+.main h1{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(33, 33, 108);
+    margin-top: 50px;
+}
+.w-10{
+   width: 100%;
+}
+.w-11{
+    width: 12%;
+    position: absolute ;
+    left: 330px;
+    top: 120px;
+}
+.w-12{
+    width: 12%;
+    position: absolute ;
+    left: 720px;
+    top: 120px;
+}
+.w-13{
+    width: 12%;
+    position: absolute ;
+    left: 1100px;
+    top: 120px;
+}
+.end{
+    display: flex;
+    width: 80%;
+    margin-left: 300px;
+}
+.lk .li{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+}
+.nao a{
+    list-style: none;
+    text-decoration: none;
+    margin-right: 30px;
+    color: rgb(33, 33, 99);
+}
+.lh{
+    display: flex;
+}

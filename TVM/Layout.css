@@ -1,0 +1,27 @@
+
+.nav .list .list-1{
+    display: flex;
+}
+.menu{
+    position: absolute;
+    top: 55px;
+    left: 255px;
+}
+.menu .list .list-1{
+    position: absolute;
+    top: 10px;
+    left: 250px;
+    list-style: none;
+}
+.menu .list .list-1 .name{
+    padding: 5px 5px;
+    width: 180px;
+    text-align: center;
+    font-size: 20px;
+}
+.name > a:hover{
+    color: red;
+}
+.w-22{
+    width: 80%;
+}

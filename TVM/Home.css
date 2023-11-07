@@ -1,0 +1,258 @@
+.banner{
+    width: 95%;
+    margin: 50px;
+    background-color: #ece6e6;
+}
+.menu .list .list-1 .name-1{
+    color: rgb(16, 16, 110);
+    font-size: 20px;
+    position: absolute;
+    top: 5px;
+    left: 1000px;
+}
+.name>a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.menu .list .list-1 .name{
+    padding: 5px 5px;
+    width: 180px;
+    text-align: center;
+    font-size: 20px;
+}
+.naruto{
+    width: 90%;
+    display: flex;
+    margin-left: 6%;
+} 
+.nav .title{
+    position: absolute;
+    top: 250px;
+    left: 255px;
+    width: 25%;
+}
+.title h1{
+    font-size: 33px;
+    color: white;
+}
+.title p{
+    font-size: 18px;
+    color: white;
+}
+.title button{
+    width: 150px;
+    height: 30px;
+    color: rgb(40, 40, 179);
+}
+.content h1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(27, 27, 150);
+}
+.content{
+    margin-top: 50px;
+}
+.content p{
+    text-align: center;
+    font-size: 16px;
+    color: rgb(30, 30, 146);
+}
+.carousel{
+    margin-top: 50px;
+}
+.sasuke{
+    width: 40%;
+}
+.w-1{
+    width: 90%;
+}
+.slick-dots{
+    position: absolute;
+    bottom: 0;
+    left: 48%;
+    transform: translate(-50%, 100px);
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    gap: 0 20px;
+}
+.slick-dots button{
+    font-size: 0;
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    background-color: #ccc;
+    border: none;
+    outline: none;
+    transition: all 0.2s linear;
+
+}
+.slick-dots .slick-active button{
+    background-color: #2cccff;
+}
+.bot{
+    margin-top: 100px;
+}
+.bot h1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(27, 27, 150);
+    margin-top: 50px;
+}
+.close-1 h1{
+    font-size: 30px;
+    color: rgb(35, 35, 149);
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.w-1{
+    margin-bottom: 20px;
+}
+.data .td h2{
+    color: rgb(36, 36, 138);
+}
+.data .td p{
+    color: rgb(36, 36, 138);
+}
+.close-2 h1{
+    font-size: 30px;
+    color: rgb(35, 35, 149);
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.close-2 p{
+    color: rgb(35, 35, 149); ;
+    text-align: center;
+}
+.close-2 button{
+    background-color: rgb(35, 35, 136);
+    color: white;
+    margin-left: 45%;
+    width: 150px;
+    text-align: center;
+}
+.close-3{
+    position: relative;
+    margin-top: 50px;
+}
+.close-3 .lt{
+    border: 2px solid #ccc;
+    width: 500px;
+    height: 250px;
+    position: absolute;
+    left: 300px;
+}
+.lt h2{
+    margin-left: 16px;
+    color: rgb(169, 169, 183);
+}
+.lt h3{
+    margin-left: 16px;
+    color: rgb(39, 39, 144);
+}
+.close-3 .md{
+    background-color: rgb(35, 35, 133);
+    width: 500px;
+    height: 250px;
+    color: white;
+    position: absolute;
+    left: 700px;
+    top: 100px;
+}
+.md h2{
+    margin-left: 20px;
+    font-size: 25px;
+    margin-top: 15px;
+}
+.md h3{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.md p{
+    margin-left: 40px;
+}
+.close-3 .rt{
+    position: absolute;
+    left: 1000px;
+    top: -90px;
+}
+.rt img{
+    width: 80%;
+}
+.close-4{
+    margin-top: 500px;
+    position: relative;
+}
+.ltt h1{
+    text-align: center;
+    color: rgb(39, 39, 144);
+    margin-bottom: 50px;
+}
+.flight {
+    display: flex;
+    width: 68%;
+    margin-left: 300px;
+}
+.w-3{
+    width: 90%;
+}
+.w-2{
+    position: absolute;
+    top: 140px;
+    width: 6%;
+    left: 330px;
+}
+.w-4{
+    position: absolute;
+    top: 140px;
+    width: 6%;
+    left: 710px;
+}
+.w-5{
+    position: absolute;
+    top: 140px;
+    width: 6%;
+    left: 1080px;
+}
+.pr{
+    position: absolute;
+    color: white;
+    top: 370px;
+    left: 330px;
+    width: 40%;
+}
+.pt{
+    position: absolute;
+    color: white;
+    top: 420px;
+    left: 700px;
+    width: 40%;
+}
+.ps{
+    position: absolute;
+    color: white;
+    top: 420px;
+    left: 1070px;
+    width: 40%;
+}
+.end{
+    display: flex;
+    width: 80%;
+    margin-left: 300px;
+}
+.lk .li{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+}
+.nao a{
+    list-style: none;
+    text-decoration: none;
+    margin-right: 30px;
+    color: rgb(33, 33, 99);
+}
+.lh{
+    display: flex;
+}
